@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "TimeTracker\\": [
+        "backend/modules/database",
+        "backend/modules/helpers",
+        "backend/modules/general/models"
+      ]
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
