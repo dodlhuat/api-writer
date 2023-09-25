@@ -4,7 +4,8 @@
       "TimeTracker\\": [
         "backend/modules/database",
         "backend/modules/helpers",
-        "backend/modules/general/models"
+        "backend/modules/general/models",
+        "backend/modules/general/controllers"
       ]
     }
   },
