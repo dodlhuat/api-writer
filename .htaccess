@@ -1,0 +1,2 @@
+RewriteEngine On
+# todo: rewrite api.php to /api

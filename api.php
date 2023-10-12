@@ -3,6 +3,7 @@
 // TODO: variables in endpoints
 // TODO: only allow GET and POST
 // TODO: token authentication
+// TODO: alles in klassen verschieben
 
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
